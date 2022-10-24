@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Actividad1</string>
+    <string name="nombre_aplicacion">APP COLEGIO</string>
+    <string name="in_estudiante">Estudiante</string>
+    <string name="in_docente">Maestro</string>
+    <string name="in_bienvenida">BIENVENIDOS A LA APLICACION DE NUESTRA INSTITUCION EDUCATIVA</string>
+</resources>

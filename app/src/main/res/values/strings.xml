@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Actividad1</string>
+    <string name="nombre_aplicacion">APP SCHOOL</string>
+    <string name="in_estudiante">Student</string>
+    <string name="in_docente">Teacher</string>
+    <string name="in_bienvenida">WELCOME TO THE APPLICATION OF OUR EDUCATIONAL INSTITUTION</string>
+</resources>
